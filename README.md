@@ -27,9 +27,9 @@ Ensure you have the following installed:
 
 To start the server, use one of the following commands:
 
-    ```bash
-    npm run dev
-    ```
+```bash
+npm run dev
+```
 
 The server will be running at http://localhost:3000.
 
